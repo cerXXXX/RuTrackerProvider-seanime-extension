@@ -2,10 +2,12 @@
   "id": "rutracker-torapi",
   "name": "RuTracker",
   "version": "1.0.0",
-  "description": "Поиск аниме-торрентов на RuTracker через TorAPI",
-  "author": "ВашНикнейм",
-  "icon": "https://rutracker.org/favicon.ico",
+  "manifestURI": "https://github.com/cerXXXX/RuTrackerProvider-seanime-extension/blob/main/manifest.json",
+  "language": "typescript",
   "type": "anime-torrent-provider",
-  "main": "index.ts",
-  "language": "ru"
+  "description": "Поиск аниме-торрентов на RuTracker через TorAPI (поддержка Smart Search)",
+  "author": "cerXXXX",
+  "icon": "https://rutracker.org/favicon.ico",
+  "lang": "ru",
+  "payloadURI": "https://github.com/cerXXXX/RuTrackerProvider-seanime-extension/blob/main/index.ts"
 }
