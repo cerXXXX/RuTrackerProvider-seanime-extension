@@ -1,0 +1,11 @@
+{
+  "id": "rutracker-torapi",
+  "name": "RuTracker",
+  "version": "1.0.0",
+  "description": "Поиск аниме-торрентов на RuTracker через TorAPI",
+  "author": "ВашНикнейм",
+  "icon": "https://rutracker.org/favicon.ico",
+  "type": "anime-torrent-provider",
+  "main": "index.ts",
+  "language": "ru"
+}
