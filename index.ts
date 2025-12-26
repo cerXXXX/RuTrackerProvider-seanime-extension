@@ -128,7 +128,7 @@ class Provider {
                         link: item.Url || "",
                         magnetLink: details.Magnet,
                         infoHash: details.Hash,
-                        isBatch: false, // Seanime сам распарсит из имени, если не уверены
+                        isBatch: true, // обычно на rutracker аниме выкладываются сезонами
                         episodeNumber: -1,
                         isBestRelease: false,
                         confirmed: false
