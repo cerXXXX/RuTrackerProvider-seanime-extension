@@ -105,7 +105,7 @@ class Provider {
             if (!Array.isArray(data)) return [];
 
             const animeResults = data
-                .filter(item => item.Category && (item.Category.includes('Аниме') || item.Category.includes('Онгоинги'))
+                .filter(item => item.Category && (item.Category.includes('Аниме') || item.Category.includes('Онгоинги')))
                 .slice(0, 10);
 
             const results = await Promise.all(animeResults.map(async (item) => {
