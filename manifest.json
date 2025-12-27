@@ -7,7 +7,7 @@
   "type": "anime-torrent-provider",
   "description": "Поиск аниме-торрентов на RuTracker через TorAPI (поддержка Smart Search)",
   "author": "cerXXXX",
-  "icon": "https://rutracker.org/favicon.ico",
+  "icon": "https://raw.githubusercontent.com/cerXXXX/RuTrackerProvider-seanime-extension/refs/heads/main/favicon.ico",
   "lang": "ru",
   "payloadURI": "https://raw.githubusercontent.com/cerXXXX/RuTrackerProvider-seanime-extension/refs/heads/main/index.ts"
 }
